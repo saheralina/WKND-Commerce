@@ -69,7 +69,7 @@ main .hero-container {
 }
 
 .hero .hero-desc-wrapper p:first-of-type {
-  margin: 0.75em 0 1.5em;
+  margin: 0.75em 0 0.75em;
 }
 
 @media (width <= 768px) {
