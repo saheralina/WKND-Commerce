@@ -2,8 +2,8 @@
 
 ## Environments
 
-- Preview: https://main--xsc-wknd-commerce--hlxsites.hlx.page/
-- Live: https://main--xsc-wknd-commerce--hlxsites.hlx.live/
+- Preview: https://main--wknd-commerce--legokam.hlx.page/
+- Live: https://main--wknd-commerce--legokam.hlx.live/
 
 ## Pre-requisites
 
